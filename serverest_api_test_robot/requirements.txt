@@ -1,0 +1,9 @@
+robotframework-requests
+robotframework
+robotframework-faker
+allure-robotframework
+pyyaml
+robotframework-tidy
+robotframework-jsonlibrary
+robotframework-jsonschemalibrary
+jsonschema
