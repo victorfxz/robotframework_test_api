@@ -11,7 +11,7 @@ robotframework-faker
 pyyaml
 ```
 
-\*\* References:  
+\*\* Referencias:  
 https://pypi.org/project/robotframework-pageobjectlibrary  
 https://libraries.io/pypi/robotframework-pageobjectlibrary  
 https://github.com/boakley/robotframework-pageobjectlibrary
