@@ -10,6 +10,7 @@ robotframework==6.0.2
 robotframework-faker
 pyyaml
 ```
+<img src="https://raw.githubusercontent.com/victorfxz/robotframework_test_api/main/serverest_api_test_robot/res/Teste%20-%20API.gif" />
 
 \*\* Referencias:  
 https://pypi.org/project/robotframework-pageobjectlibrary  
