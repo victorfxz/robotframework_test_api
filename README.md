@@ -12,7 +12,7 @@ pyyaml
 ```
 <img src="https://raw.githubusercontent.com/victorfxz/robotframework_test_api/main/serverest_api_test_robot/res/Teste%20-%20API.gif" />
 
-\*\* Referencias:  
+\*\* Referências:  
 https://pypi.org/project/robotframework-pageobjectlibrary  
 https://libraries.io/pypi/robotframework-pageobjectlibrary  
 https://github.com/boakley/robotframework-pageobjectlibrary
